@@ -64,5 +64,7 @@ df2
 
 ![8](https://user-images.githubusercontent.com/53014593/204822948-7adcc515-4fda-4194-ac49-ad5fa9802cfc.png)
 
+## Result:
+Thus above program is required for weight-height was analyzed successfully
 
 
