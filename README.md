@@ -45,12 +45,19 @@ df2
 ~~~
 ## Output:
 ![1](https://user-images.githubusercontent.com/53014593/204822712-ce726fdd-f13e-4ae8-8d8f-9eb75797e287.png)
+
 ![2](https://user-images.githubusercontent.com/53014593/204822792-af60c31d-7f48-4981-ab8c-48d220bc0af9.png)
+
 ![3](https://user-images.githubusercontent.com/53014593/204822837-6b834cb9-143b-40b4-ab50-09fc2710f1bb.png)
+
 ![4](https://user-images.githubusercontent.com/53014593/204822893-833d04e7-3335-4dff-b711-309021181516.png)
+
 ![5](https://user-images.githubusercontent.com/53014593/204822909-00481f75-4531-4a27-bb56-8d357b4a1a96.png)
+
 ![6](https://user-images.githubusercontent.com/53014593/204822921-44e215d2-ca62-4066-9067-09de2ac91076.png)
+
 ![7](https://user-images.githubusercontent.com/53014593/204822942-47624127-351c-4d6d-b15d-70fd3309e4af.png)
+
 ![8](https://user-images.githubusercontent.com/53014593/204822948-7adcc515-4fda-4194-ac49-ad5fa9802cfc.png)
 
 
