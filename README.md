@@ -2,7 +2,11 @@
 ## Aim: 
 To implement data science techniques in weight-height dataset
 ## Methodologies:
-![image](https://user-images.githubusercontent.com/53014593/204821149-4a41b6b8-5dfa-4f21-8601-4e3e5df75137.png)
+#### 1.Importing Libraries
+#### 2.Loading Data
+#### 3.Performing Simple EDA
+#### 4.Feature Engineering & Selection
+#### 5.Model Visulization
 ## Program:
 ~~~
 import numpy as np
